@@ -1,0 +1,10 @@
+<rows> <columns>
+a11 a12 ... a1n
+a21 a22 ... a2n
+...
+am1 am2 ... amn
+
+b11 b12 ... b1n
+b21 b22 ... b2n
+...
+bm1 bm2 ... bmn
